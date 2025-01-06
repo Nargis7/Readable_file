@@ -7,3 +7,15 @@ This is my readable File
 <br>
 3.
 non linear data structure
+<br>
+basic operation that can performed on data structure
+<br>
+insertion
+<br>
+deletion
+<br>
+searching
+<br>
+access
+<br>
+traversal ,sort,merge,copy
