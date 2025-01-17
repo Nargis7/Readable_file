@@ -22,3 +22,5 @@ access
 traversal ,sort,merge,copy
 <br>
 linked list
+<br>
+doubly linked list 
